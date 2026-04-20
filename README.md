@@ -33,12 +33,23 @@ O dashboard apresenta KPIs e visualizações como:
 
 ---
 
-## 💡 Resultado
-O projeto transforma dados operacionais em insights estratégicos para melhoria de eficiência e tomada de decisão.
-
-
 ## 📁 Projetos desenvolvidos
 
-
 🔗 Acesso ao projeto: https://jm-dataanalytics.github.io/Forecast-Engine/  
-📊 Dashboard interativo: https://jm-dataanalytics.github.io/Forecast-Engine/pages/dashboard.html
+📊 Dashboard interativo: https://jm-dataanalytics.github.io/Forecast-Engine/pages/dashboard.html  
+📊 Power BI: https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- Power BI  
+- Python (análise de dados)  
+- Pandas / NumPy  
+- GitHub Pages  
+- Excel (base de dados)  
+
+---
+
+## 📌 Status do projeto
+✔️ Concluído  
+📊 Atualização contínua de dados e métricas  
