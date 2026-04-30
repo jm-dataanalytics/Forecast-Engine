@@ -23,8 +23,8 @@ O modelo projeta tendências para os próximos 3 meses com base no comportamento
 ---
 
 ## 📊 Dashboard
-O dashboard apresenta KPIs e visualizações como:
 
+**Principais indicadores:**
 - Atraso médio operacional  
 - Relação entre carga e eficiência  
 - Performance por navio  
@@ -32,9 +32,32 @@ O dashboard apresenta KPIs e visualizações como:
 - Evolução temporal dos indicadores  
 
 ## 📊 Power BI Dashboard
-Acesse o relatório interativo no Power BI Service:
+🔗 Acesse o relatório interativo no Power BI Service:
 
-🔗 https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi
+https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi
+
+### ⚓ Movimentação de Cargas
+
+Este dashboard amplia a análise operacional com foco em volume, produtividade e eficiência logística.
+
+**Principais indicadores:**
+- Volume total movimentado  
+- Total de operações realizadas  
+- Tempo médio por operação  
+- Produtividade (toneladas por hora)  
+- Variação do volume ao longo do tempo  
+
+**Análises disponíveis:**
+- Evolução temporal da movimentação  
+- Volume por tipo de carga  
+- Intensidade de movimentação por categoria  
+- Comparação entre operações (carga, descarga, içamento)  
+
+## 📊 Power BI Dashboard
+🔗 Acesse o relatório interativo no Power BI Service:
+https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3eca9fad1dccde0b16a2?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
+
+---
 
 📌 **Observação de acesso:**
 - Este dashboard requer login no Power BI
@@ -53,6 +76,7 @@ Acesse o relatório interativo no Power BI Service:
  
 🔗 Dashboard interativo: https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi
 
+🔗 Dashboard interativo: https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3eca9fad1dccde0b16a2?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
 
 ---
 
