@@ -110,7 +110,8 @@ https://app.powerbi.com/groups/me/reports/72ec44c7-4fd6-4a89-b46b-a3d2be139db4/2
 - Power BI  
 - Python (análise de dados)  
 - Pandas / NumPy
-- SQL 
+- SQL
+- R  
 - GitHub Pages  
 - Excel (base de dados)  
 
