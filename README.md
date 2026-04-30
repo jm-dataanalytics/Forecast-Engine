@@ -91,6 +91,8 @@ https://jm-dataanalytics.github.io/Forecast-Engine/pages/movimentacao.html
 🔗 Dashboard interativo:  
 https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3eca9fad1dccde0b16a2?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
 
+---
+
 ### 📊 Dashboard de Análise Salarial e Perfil Demográfico
 
 📊 Descrição do dashboard:  
