@@ -70,13 +70,28 @@ https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3
 
 ## 📁 Projetos desenvolvidos
 
-🔗 Acesso ao projeto: https://jm-dataanalytics.github.io/Forecast-Engine/ 
- 
-📊 Dashboard: https://jm-dataanalytics.github.io/Forecast-Engine/pages/dashboard.html 
- 
-🔗 Dashboard interativo: https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi
+### 🚢 Dashboard de Performance Operacional (Navios)
 
-🔗 Dashboard interativo: https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3eca9fad1dccde0b16a2?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
+🔗 Acesso ao projeto:  
+https://jm-dataanalytics.github.io/Forecast-Engine/ 
+ 
+📊 Descrição do dashboard:  
+https://jm-dataanalytics.github.io/Forecast-Engine/pages/dashboard.html 
+ 
+🔗 Dashboard interativo:  
+https://app.powerbi.com/groups/me/reports/b5d20c59-0b51-4d34-8d8a-968f6125f5ad/e2198471760176e757e9?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
+
+---
+
+### ⚓ Dashboard de Movimentação de Cargas
+
+📊 Descrição do dashboard:  
+https://jm-dataanalytics.github.io/Forecast-Engine/pages/movimentacao.html 
+ 
+🔗 Dashboard interativo:  
+https://app.powerbi.com/groups/me/reports/1b789ed5-8692-4548-8f2c-9b6870752001/3eca9fad1dccde0b16a2?ctid=9138cffb-d095-4c7f-8b63-6606e5c0e6d2&experience=power-bi  
+
+---
 
 ---
 
